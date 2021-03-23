@@ -1,0 +1,1 @@
+{"version":"0.0.1","name":"my-hyperdev-app","dependencies":{"body-parser":{"version":"1.19.0"},"chai-http":{"version":"3.0.0"},"chai":{"version":"3.5.0"},"cors":{"version":"2.8.5"},"express":{"version":"5.0.0-alpha.8"},"mocha":{"version":"3.5.3"},"nodemon":{"version":"2.0.7"},"zombie":{"version":"4.3.0"}}}
